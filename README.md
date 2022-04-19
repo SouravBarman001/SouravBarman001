@@ -1,4 +1,4 @@
-   ###### Hello, I'm Sourav barman 👋
+   # Hello, I'm Sourav barman 👋
 
 - 🔭 I’m currently working on Image classification.
 - 🌱 I’m currently learning Machine Learning.
