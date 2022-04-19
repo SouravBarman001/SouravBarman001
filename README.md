@@ -7,4 +7,4 @@
 - 📫 How to reach me: Twitter - @souravB94674616.
 - ⚡ Fun fact: I can sleep anywhere
 
-<img src="https://github-readme-stats.vercel.app/api?username=SouravBarman001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=#848484">
+<img src="https://github-readme-stats.vercel.app/api?username=SouravBarman001&&show_icons=true&title_color=#1B0A2A&icon_color=#2E2E2E&text_color=#2E2E2E&bg_color=#848484">
