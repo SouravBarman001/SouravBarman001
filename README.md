@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Sourav Barman
-#### Software Engineer
+#### Studing in Software Engineering
 
 Skills: Java / React Js/ Python
 
