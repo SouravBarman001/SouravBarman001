@@ -23,3 +23,6 @@ Skills: Java / React Js/ Python
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SouravBarman001)  
 
 ![Profile views](https://gpvc.arturio.dev/SouravBarman001)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravBarman001)](https://github.com/anuraghazra/github-readme-stats)
+
