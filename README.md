@@ -25,4 +25,3 @@ Skills: Java / React Js/ Python
 ![Profile views](https://gpvc.arturio.dev/SouravBarman001)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravBarman001)](https://github.com/anuraghazra/github-readme-stats)
-
