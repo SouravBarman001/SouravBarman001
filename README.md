@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sourav Barman
 #### Studying in Software Engineering
 
-Skills: Java / React Js/ Python
+Skills: Java / React Js/ Python / React Native
 
 - 🔭 I’m currently working on Image classification. 
 - 🌱 I’m currently learning Machine Learning. 
