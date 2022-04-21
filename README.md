@@ -3,7 +3,7 @@
 
 Skills: Java / React Js/ Python / React Native
 
-- 🔭 I’m currently working on Image classification. 
+- 🔭 I’m currently working on Image Processing. 
 - 🌱 I’m currently learning Machine Learning. 
 - 🤔 I’m looking for help with Web Development 
 - 💬 Ask me about python or any tech related stuff. 
