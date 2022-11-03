@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Sourav Barman
 #### Studying in Software Engineering
 
-Skills: Java / React Js/ Python / React Native / Machine Learning
+Skills: Java / Kotlin / JavaScript / PHP/ Python / Machine Learning / Android Studio
 
-- 🔭 I’m currently working on Image Processing. 
+- 🔭 I’m currently working on Android development. 
 - 🌱 I’m currently learning Machine Learning. 
 - 🤔 I’m looking for help with Web Development 
-- 💬 Ask me about python or any tech related stuff. 
+- 💬 Ask me about java,python or any tech related stuff. 
 - 📫 How to reach me: Twitter - @souravB94674616. 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I can sleep anywhere 
