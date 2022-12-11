@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sourav Barman
 #### Studying in Software Engineering
 
-Skills: Java / Kotlin / JavaScript / PHP/ Python / Machine Learning / Android Studio
+Skills: Java / JavaScript / PHP/ Python / Machine Learning 
 
 - 🔭 I’m currently working on Android development. 
 - 🌱 I’m currently learning Machine Learning. 
