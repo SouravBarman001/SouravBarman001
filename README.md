@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS and Laravel**
 
-- 💬 Ask me about **Web technologies**
+- 💬 Ask me about **Web technology & Machine learning**
 
 - 📫 How to reach me **souravbarman.iit.nstu@gmail.com**
 
