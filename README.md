@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Flutter project**
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning **Mobile Application Development**
 
 - 💬 Ask me about **Web technology & Machine learning**
 
