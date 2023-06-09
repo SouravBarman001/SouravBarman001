@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravbarman001&label=Profile%20views&color=0e75b6&style=flat" alt="souravbarman001" /> </p>
 
-- 🔭 I’m currently working on **React-Ecommerce**
+- 🔭 I’m currently working on **Flutter project**
 
-- 🌱 I’m currently learning **ReactJS and Laravel**
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - 💬 Ask me about **Web technology & Machine learning**
 
