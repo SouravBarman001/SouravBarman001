@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **souravbarman.iit.nstu@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/SouravBarman001/resume/blob/main/Sourav_Barman_Resume.pdf](SOURAV BARMAN RESUME)
+- 📄 Know about my experiences [https://github.com/SouravBarman001/resume/blob/main/Sourav_Barman_Resume.pdf]
 
 - ⚡ Fun fact **Always smilling face**
 
